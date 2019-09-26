@@ -1,0 +1,2 @@
+print("Хай, чучело!");
+print("Welcome");
